@@ -243,9 +243,6 @@ footer a{
 
 /* tablet view */
 @media screen and (min-width: 770px) {
-    *{
-        transition: 0.1s 0.5 ease;
-    }
     
     header{
         margin-right: 20px;
